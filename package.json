@@ -8,5 +8,6 @@
   },
   "keywords": ["DOM", "text-masking", "word-hiding", "browser", "trump", "dei", "censorship", "obfuscation", "tyranny"],
   "author": "Ian Monroe",
-  "license": "ISC"
+  "license": "ISC",
+  "homepage": "https://github.com/imonroe/undei"
 }
