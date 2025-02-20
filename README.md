@@ -25,7 +25,7 @@ There is a configurable hover state which will reveal the words which have been 
 
 ```
 <script type="module">
-    import { hideForbiddenWords } from "./index.js";
+    import { hideForbiddenWords } from "./node_modules/undei/index.js";
     document.addEventListener("DOMContentLoaded", () => hideForbiddenWords(true));
 </script>
 
