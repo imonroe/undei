@@ -5,7 +5,10 @@ Why take down a whole website filled with valuable information, just because the
 
 Never fear!  With this handy Javascript package, you can quickly update your whole website to censor the words that hurt the feelings of Co-Presidents Trump and Musk!
 
-There is a configurable hover state which will reveal the words which have been censored, but let's face it, you're blacking them out for a reason.  You ARE blacking them out for a REAL REASON, right?  So just leave
+There is a configurable hover state which will reveal the words which have been censored, but let's face it, you're blacking them out for a reason.  You ARE blacking them out for a REAL REASON, right?
+
+![image](https://github.com/user-attachments/assets/edcd750a-1a32-45cc-af0a-9deb6be08460)
+
 
 ## Try it out!
 - `git clone` this repo to a handy location.
