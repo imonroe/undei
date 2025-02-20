@@ -1,0 +1,12 @@
+{
+  "name": "undei",
+  "version": "1.0.0",
+  "description": "Un-DEI your web site automatically with this handy JS package which obfuscates forbidden words.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["DOM", "text-masking", "word-hiding", "browser", "trump", "dei", "censorship", "obfuscation", "tyranny"],
+  "author": "Ian Monroe",
+  "license": "ISC"
+}
